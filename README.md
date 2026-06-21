@@ -168,17 +168,7 @@ PRODUCTION DEPLOYMENT
 
 </p>
 
----
 
-# 🏆 ACHIEVEMENTS
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Surajyadav98-ai&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 📚 CURRENTLY LEARNING
 
