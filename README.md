@@ -1,68 +1,58 @@
-<h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<h3 align="center">AI/ML Enthusiast | Final Year CSE Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Building+AI%2FML+Projects;Computer+Vision+%7C+Deep+Learning;Currently+working+on+SNAPCLASS+%F0%9F%93%B7" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Suraj%20Yadav&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Final%20Year%20CSE%20Student&descAlignY=55&descSize=18" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Final+Year+CSE+(AI+%26+ML)+Student;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Building+Real-World+AI+Systems;Open+to+Internships+%26+Full-Time+Roles" />
 
-### 🚀 About Me
-- 🎓 Final-year B.Tech CSE (AI & ML) student  
-- 💡 Building **SNAPCLASS** — AI-based attendance system using Face & Voice Recognition  
-- 🔍 Actively exploring opportunities in Data Science & Machine Learning  
-- 🌱 Currently learning advanced Computer Vision & MLOps  
+<br>
 
----
+[
 
-### 🛠️ Tech Stack
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+](https://www.linkedin.com/in/suraj-yadav-8671a1261/)
+[
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
+](https://leetcode.com/u/surajyadavv/)
+[
 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+](https://github.com/surajyadav98-ai)
 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-
-
-
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-
-
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-
-
-
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajyadav98-ai&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🔥 Latest Project — TruAttend
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajyadav98-ai&theme=radical" alt="GitHub Streak" />
-</p>
+> **AI-powered automated attendance system** using Facial Recognition + Voice-based verification, built to eliminate proxy attendance and manual roll-calls.
+
+| | |
+|---|---|
+| 🧠 **Tech** | Python, OpenCV, dlib, Resemblyzer, Librosa |
+| 🖥️ **UI** | Streamlit |
+| 🗄️ **Database** | Supabase |
+| 📊 **Data** | Pandas |
+
+🔗 **[Explore TruAttend →](https://github.com/surajyadav98-ai/TruAttend)**
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajyadav98-ai&color=blueviolet" alt="Profile Views" />
-</p>
+### ⚡ About Me
+
+```python
+class Suraj:
+    def __init__(self):
+        self.role = "AI/ML Engineer in the making"
+        self.education = "B.Tech CSE (AI & ML), SAITM Gurgaon"
+        self.focus = ["Computer Vision", "Deep Learning", "MLOps"]
+        self.status = "Actively seeking internships & full-time roles"
+
+    def currently_building(self):
+        return "TruAttend — Face + Voice based Smart Attendance System"
 
 <!--
 **surajyadav98-ai/surajyadav98-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
