@@ -34,8 +34,7 @@ class SurajYadav:
 
         self.current_projects = [
             "TruAttend",
-            "ForecastAI",
-            "InterviewGPT",
+            "RAG fro sktrech with LLMs gpt,anthropic,googleAi,Groq",
             "AI Text Summarizer"
         ]
 
@@ -51,11 +50,8 @@ suraj = SurajYadav()
 ### 🎯 TruAttend
 AI-Powered Smart Attendance System using Face Recognition and Voice Verification.
 
-### 📈 ForecastAI
-Sales Forecasting and Predictive Analytics Engine.
-
-### 🤖 InterviewGPT
-AI-Based Interview Preparation Assistant.
+### 📈 RAG fro sktrech with LLMs
+Provide accurate out with LLms
 
 ### 📝 AI Text Summarizer
 Transformer (T5) based NLP Summarization System.
